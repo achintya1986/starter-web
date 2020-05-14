@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-    Achintya Sett
+    Achintya Kumar Sett
 
 # THANKS
 
