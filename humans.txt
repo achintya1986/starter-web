@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     Achintya Kumar Sett
+    Assistant Consultant
 
 # THANKS
 
