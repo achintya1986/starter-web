@@ -6,7 +6,8 @@
     <name> -- <role> -- <twitter>
     Achintya Kumar Sett
     Assistant Consultant
-
+    achintya.sett@twitter.com
+    
 # THANKS
 
     <name>
